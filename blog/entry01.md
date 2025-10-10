@@ -14,18 +14,18 @@ I am currently at the first step of the engineering design project because altho
 
 ### Skills 
 
-Some skills that I have learned from working on this blog is **organization**, **time management**, and **consideration**
+Some skills that I have learned from working on this blog is **organization**, **time management**, and **consideration**.
 
-#### organization
+#### Organization
 Organization was an important skill to me as it helps in making me prepare and it can help me in being able to organize the information that I might gain during this topic. At first my organization was more simple as I would organize things by folders which although was reliable it did not help in managing specific workloads and keeping all my information organize. So I would often use different apps that organize my scedule, my files, and folders that can help in making my workflow and research more efficient. 
 
-#### time management
-I often have a large workflow due to some of the activities that I like to do at home such as playing video games, and watching different forms of social media. However distractions were a large reason that I often would need to complete alot of work in one sitting such as loud noises from outside, family members talking, and my brother who always plays sports indoors. However i've found a solution to this problem and that is using headphones. Headphones help in canceling out those loud noises and playing calming music helped in keeping myself focused and free of distractions. And I have also decided to cut back on those distracting activities and give myself a balance between diligence and relaxation. 
+#### Time Management
+I often have a large workflow due to some of the activities that I like to do at home such as playing video games, and watching different forms of social media. However distractions were a large reason that I often would need to complete alot of work in one sitting such as loud noises from outside, family members talking, and my brother who always plays sports indoors. However i've found a solution to this problem and that is using headphones. Headphones help in canceling out those loud noises and playing calming music helped in keeping myself focused and free of distractions. And I have also decided to cut back on those distracting activities and give myself a balance between focus and relaxation. 
 
-#### consideration 
+#### Consideration 
 Consideration was another skill I have developed because now I have become more aware of what pros and cons a situation may bring and also being able to understand the positive affects and the negative affects that animal conservation may bring. I have noticed that within animal conservation the cost of all these different technologies can be really pricey. This in return can negatively impact different organizations that are trying to use these different technologies to help in animal conservation. With this skill I can observe and analyse more on different resources and it can teach me to think first about my actions and the consqeuences they may bring. 
 
-### Next steps 
+### Next Steps 
 
 I hope that these skills and all these different forms of information that ive gained will help in researching different innovations and technology within animal conservation!
 
