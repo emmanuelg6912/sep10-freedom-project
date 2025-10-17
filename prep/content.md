@@ -7,8 +7,13 @@ Topic: **Animal conservation**
 
 ## Part A: existing technology
 * Searched up **"animal conservation technology apps"** 
-  * I found a app called Earth Ranger which uses data from different animals, habitats, and enviorments to help in protecting and conserving wildlife 
-  * [Earth ranger](<img width="30" height="28" alt="image" src="https://github.com/user-attachments/assets/e0938914-ee1d-4c3d-9871-8e5e3299363c"/>)
+  * I found a app called Earth Ranger which uses data from different animals, habitats, and enviorments to help in protecting and conserving wildlife
+  * [heres the link to the app](https://www.earthranger.com/)
+  * []()
+  * Also found a app named grameners which uses different pieces of data and information of animals and uses ai as a way to compile the percantage of endagerment with animals and even plants globally and use these pieces of information as a way to gain more information on different 
+* Searched up **"animal technology apps"**
+ * did not find any results
+* Searched up **"animal data apps"**
 
 ## Part B: possible future technology
 * Idea
