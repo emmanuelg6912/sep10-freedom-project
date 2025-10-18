@@ -7,9 +7,9 @@ Topic: **Animal conservation**
 
 ## Part A: existing technology
 
-* Searched up **"Animal Conservation Technology Apps"** 
-  * I found a app called **"Earth Range"r** which uses data from different animals, habitats, and enviorments to help in protecting and conserving wildlife.
-  * Theres also different parts of the website such as the ecoscope which a free open source model used for making analyitics on animal populations and their times spent in specific areas.  
+Searched up **"Animal Conservation Technology Apps"** 
+  * I found an app called **"Earth Ranger"** which uses data from different animals, habitats, and environments to help in protecting and conserving wildlife.
+  * There's also different parts of the website such as the ecoscope which a free open source model used for making analytics on animal populations and their times spent in specific areas.  
   * [heres the link to the app](https://www.earthranger.com/)
   * ![earth-ranger](https://github.com/user-attachments/assets/984a9aad-872e-43a1-89fb-34353d4afed6)
    
@@ -24,9 +24,10 @@ Topic: **Animal conservation**
 * Searched up **"Animal Data Apps"**
     * did not find any results.
 * **Honorable Mention**
-    * I found a app named **"Grameners"** which although does not specialize in using animal conservation technologies it can be used in compiling pieces of data and information in the form of percentages, images, and, graphs. This in return can be used in animal conservation to calculate animal populations, endangered species, and more important pieces of information that can help in developing Animal Conservation technologies.
+    * I found an app named **"Gramener"** which although does not specialize in using animal conservation technologies it can be used in compiling pieces of data and information in the form of percentages, images, and graphs. This in return can be used in animal conservation to calculate animal populations, endangered species, and more important pieces of information that can help in developing Animal Conservation technologies.
     * [heres the link to the app](https://gramener.com/)
     * ![gramener_logo](https://github.com/user-attachments/assets/3eac6084-49ca-4978-983e-eebf69dfaa6c)
+
 
 
 ## Part B: possible future technology
