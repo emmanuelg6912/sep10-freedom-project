@@ -22,14 +22,20 @@ Topic: **Animal conservation**
   * [heres the link to the app](https://ebird.org/home)
   * ![ebird](https://github.com/user-attachments/assets/7414a101-b62f-42a1-9052-8b764468fd5d)
 
+* The Final app that I ended up finding was called  **"wild track"** which uses data analytics, artificial intelligence, and ecological knowledge to help in conserving wildlife.
+  * Uses a new app named FIT/Footprint Identification Technology which allows for easy tracking and data of animal population by just taking     a picture of an animals footprint.
+  * Uses non invasive methods that do not disturb or bother animals or species.
+  * Technology is accessible to all communities.
+  * download the app on ios or android for free.
+  * [heres the link to the app](https://www.wildtrack.org/)
+  * ![Wildtrack](https://github.com/user-attachments/assets/16f32ef6-4798-45b7-b0a1-811313f704c0)
+
+    
 * Searched up **"Animal Technology Apps"**
     * did not find any results.
 * Searched up **"Animal Data Apps"**
     * did not find any results.
-* **Honorable Mention**
-    * I found an app named **"Gramener"** which although does not specialize in using animal conservation technologies it can be used in compiling pieces of data and information in the form of percentages, images, and graphs. This in return can be used in animal conservation to calculate animal populations, endangered species, and more important pieces of information that can help in developing Animal Conservation technologies.
-    * [heres the link to the app](https://gramener.com/)
-    * ![gramener_logo](https://github.com/user-attachments/assets/3eac6084-49ca-4978-983e-eebf69dfaa6c)
+  
  
 
 
