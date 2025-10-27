@@ -5,7 +5,7 @@ Topic: **Animal conservation**
 * Text
 * Text
 
-## Part A: existing technology
+## Part A: existing technology and hardware for animal conservation 
 
 * Searched up **"Animal Conservation Technology Apps"** 
 * I found an app called **"Earth Ranger"** which uses data from different animals, habitats, and environments to help in protecting and conserving wildlife.
@@ -35,6 +35,9 @@ Topic: **Animal conservation**
     * did not find any results.
 * Searched up **"Animal Data Apps"**
     * did not find any results.
+ 
+* searched up **"Animal conservation hardware advancments"**
+  *  I found a lot of different websites and conservation organizations that specialized in the prottection of animals. Almost all of the websites I clicked on had important information on these topics but the one that I found the most interesting was fauna and flora  
 
 
   
