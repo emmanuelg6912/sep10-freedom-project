@@ -36,8 +36,12 @@ Topic: **Animal conservation**
 * Searched up **"Animal Data Apps"**
     * did not find any results.
  
-* searched up **"Animal conservation hardware advancments"**
-  *  I found a lot of different websites and conservation organizations that specialized in the prottection of animals. Almost all of the websites I clicked on had important information on these topics but the one that I found the most interesting was fauna and flora  
+* searched up **"Animal conservation hardware advancements"**
+  * I found a lot of different websites and conservation organizations that specialized in the protection of animals. Almost all of the websites I clicked on had important information on these topics but the one that I found the most interesting was [fauna and flora](https://www.fauna-flora.org/)
+  * Fauna and flora specializes in the conservation of animal species through biological, software, and hardware advancements
+* One invention that was most interesting was the use of **environmental DNA and genomics** because it was surprising how advanced that the animal conservation industry was already but so many people don't know about it. The purpose of this invention is to gather natural samples from the wild which can reveal the presence of new and unknown species within the wild.
+* another invention that stood out to me was the use of **tagging and collaring/biologging** of animals. Basically, how it works is that an electronic tag is attached to the animals body and their movement can be tracked with the tag on them. Because of this, this allows for conservationalists to help in research, managment, 
+* 
 
 
   
