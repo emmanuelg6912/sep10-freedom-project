@@ -17,8 +17,7 @@ I then went on to research more into past hardware advancements
 ### skills ive aquired 
 Some skills that ive aquired are **time management**, 
 
- 
-
+### next steps 
 
 [Previous](entry01.md) | [Next](entry03.md)
 
