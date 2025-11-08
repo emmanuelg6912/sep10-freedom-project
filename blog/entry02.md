@@ -19,7 +19,12 @@ I am still currently halfway at the second part/researching part of the engineer
 Some skills that i've aquired from this project are **leadership**, **time management**, and  **consideration**
 
 #### leadership 
+leadership was an important skill that I needed to aquire from this project due to the initiative I needed to take for myself and making quick desicions that I believed would help in working on my project. An example of this skill was when I had family plans on saturday but unfortunately I had to complete my second entry blog which was due at the end of the week and I had a lot more homework to finish up. So I prioritized the important tasks first and when I was done I was able to spend some time with my family. 
 
+#### time management 
+time management was another important skill that I had from this project as I needed to prioritize specific tasks that needed to be completed and set times and scedules for specific tasks. An example of this is usually in my everyday life. I get alot of homework assignments and its hard to do all of it at once. So I prioritize important things such as homeworks that are due tomorrow while having some time to work on bigger projects like my freedom project or my blog entrys. 
+
+#### consideration 
 
 ### next steps 
 The next major steps would be to make a quick overview and analysis of the past research I have currently made on animal conservation and then move on to part B of my research project. part B of my freedom project focuses on research on future technologies that could be made towards animal conservation and future development I can also think of. I hope everything goes well and I cant wait to see what ideas I come up with! 
