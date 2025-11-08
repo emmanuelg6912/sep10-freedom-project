@@ -14,10 +14,12 @@ I then went on to research more into past hardware advancements made in animal c
 
 ### engineering design process 
 I am still currently at the 
+
 ### skills ive aquired 
 Some skills that ive aquired are **time management**, 
 
 ### next steps 
+The next major steps would be to make a quick overview and analysis of the past research I have currently made on animal conservation and then move on to part B of my research project. part B of my freedom project focuses on research on future technologies that could be made towards animal conservation and future development I can also think of. I hope everything goes well and I cant wait to see what ideas I come up with! 
 
 [Previous](entry01.md) | [Next](entry03.md)
 
