@@ -5,19 +5,24 @@ Topic: **Animal conservation**
 * Text
 * Text
 
-## Part A: existing technology and hardware for animal conservation 
+## Part A: existing software and hardware for animal conservation 
 
-* Searched up **"Animal Conservation Technology Apps"** 
-* I found an app called **"Earth Ranger"** which uses data from different animals, habitats, and environments to help in protecting and conserving wildlife.
+### Software advancements for animal conservation
+
+ * Searched up **"Animal Conservation Technology Apps"** 
+ * I found an app called **"Earth Ranger"** which uses data from different animals, habitats, and environments to help in protecting and conserving wildlife.
    * There's also different parts of the website such as the ecoscope which is a free open source model used for making analytics on animal populations and their time spent in specific areas.
    *  Different parts of the website are organized and specific.
+   *  Created in 2015
    *  Available on all ios/android/computers and it's free. 
    * [heres the link to the app](https://www.earthranger.com/)
    * ![earth-ranger](https://github.com/user-attachments/assets/984a9aad-872e-43a1-89fb-34353d4afed6)
-* The next app I found was named **"eBird"** which was a very interesting online website app where different users can take pictures and share data of the birds they find.
+
+ * The next app I found was named **"eBird"** which was a very interesting online website app where different users can take pictures and share data of the birds they find.
   * With users being able to share all this information scientists are able to get a better understanding and data on the locations of birds, their populations, and their species. This in return can provide newer opportunities for developments in animal conservation in the future and beyond.
   * You only need to make an account to get started.
   * accessible on all platforms/ios/android/computer for free.
+  * created in 2002 
   * A video on the website talks about the app and its purpose.
   * [heres the link to the app](https://ebird.org/home)
   * ![ebird](https://github.com/user-attachments/assets/7414a101-b62f-42a1-9052-8b764468fd5d)
@@ -27,6 +32,7 @@ Topic: **Animal conservation**
   * Uses non invasive methods that do not disturb or bother animals or species.
   * Technology is accessible to all communities.
   * download the app on ios or android for free.
+  * first began to develop 
   * [heres the link to the app](https://www.wildtrack.org/)
   * ![Wildtrack](https://github.com/user-attachments/assets/16f32ef6-4798-45b7-b0a1-811313f704c0)
 
@@ -35,6 +41,8 @@ Topic: **Animal conservation**
     * did not find any results.
 * Searched up **"Animal Data Apps"**
     * did not find any results.
+  
+ ### hardware advancements for animal conservation 
  
 * searched up **"Animal conservation hardware advancements"**
   * I found a lot of different websites and conservation organizations that specialized in the protection of animals. Almost all of the websites I clicked on had important information on these topics but the one that I found the most interesting was [fauna and flora](https://www.fauna-flora.org/)
@@ -52,12 +60,6 @@ Topic: **Animal conservation**
   *  Although it may seem obvious as to why it's useful due to its high flying distance there's actually more to it than it looks.
   *  In our modern day society drones can scan out models of landscapes which can be used to track which animals and species inhabit which areas of a landscape allowing for more data on animal populations and land stability.
  
-
-
-  
- 
-
-
 
 
 ## Part B: possible future technology
