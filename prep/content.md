@@ -91,6 +91,9 @@ Topic: **Animal conservation**
     * did not find any results.
   
 ### hardware advancements for animal conservation 
+<!--I decided to organize the hardware advancements the same as the software advancements in terms of when they were created-->
+<!--added more headings to organize the different hadware advancements-->
+<!--removed the pros and cons list for hardware advancements as I already included it in my bullet points.-->
  
 * searched up **"Animal conservation hardware advancements"**
 
@@ -109,19 +112,27 @@ Topic: **Animal conservation**
  
 * another hardware advancement that stood out to me was the use of **tagging and collaring/biologging** of animals.
   * Basically, how it works is that an electronic tag is attached to the animal's body and their movement can be tracked with the tag on them. Because of this, this allows for conservationists to help in research, management, and security of animal populations within the wild
+  * However, this strategy can often disturb animals due to sedation being needed to calm the animals down to place the collar 
 
 #### Camera Trap 
  
 * I then found another interesting invention called the **camera trap** because although the name sounds pretty menacing it's actually really useful. 
   * The camera trap can be used to track animal movements within an area without the need to disturb wildlife.
   * Because of this new species can be discovered and populations can be tracked and secured in these specific areas.
-  * Camera traps are often cheap to get and can average at around 30 to 100 dollars. However to get advanced cameras with full color they can be very costly and can average up to 500 to 2000 dollars. 
+  * Camera traps are often cheap to get and can average at around 30 to 100 dollars. However to get advanced cameras with full color they can be very costly and can average up to 500 to 2000 dollars.
+  * Heres what the camera trap looks like:
+
+  
 
 #### Drones 
   
 * The last Hardware advancement  that I found useful was the use of **drones** to scan out environments
   *  Although it may seem obvious as to why it's useful due to its high flying distance there's actually more to it than it looks.
   *  In our modern day society drones can scan out models of landscapes which can be used to track which animals and species inhabit which areas of a landscape allowing for more data on animal populations and land stability.
+  * heres an image of the drone scanning a group of deers:
+    
+  <img width="600" height="800" alt="image" src="https://github.com/user-attachments/assets/c6695b01-7a7b-4eaf-8f4d-901ebd5a834f"/>
+
  
 
 
