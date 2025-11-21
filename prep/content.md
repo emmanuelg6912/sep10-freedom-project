@@ -179,6 +179,56 @@ Topic: **Animal conservation**
 
     
 
-## Part B: possible future technology
-* Idea
-  * Detail
+## Part B: possible future technological advancements on animal conservation 
+
+1. Using 3D printing to create models of animal habitats and wildlife. 
+
+   * 3D printing models of animal habitats can help in maintaining animal populations and life cycles of animals 
+   * Artificial reefs can be 3d printed out to allow for growing animal populations and maintaining life cycles within marine ecosystems.
+   * Because of this, This in return can allow for the management of animal populations and the locations of animals to ensure that these populations are safe.
+   * Heres an image of how it would work: 
+
+
+2. Using radio frequency signals to send help and resources
+
+   * radio frequency signals can allow for more further communication from specific regions and areas of the world.
+   * these frequency signals can also automatically translate different languages that are sent by radio signals and are translated to the specific regional language 
+   * For example, an SOS signal  can be sent from Vietnam and translated to Zimbabwe which can allow for conservationists from different countries to help out Vietnam and send resources depending on the situation.
+   * Heres an image of how it would work: 
+
+3. Using different materials that can automatically camouflage in specific environments
+   * How it would work is that a fabric is placed on the object and a software app can be used to change the gradient of the color by using RGB elements or combining different colors to create a camouflaging effect.
+   * Specific materials can be used to create a sort of camouflaging effect to objects.
+   * Can be implemented to different hardwares such as drones and camera traps that wont disturb wilife.
+   * Can allow for more reusability and may be cost effective.
+   *  Heres an image of how it would work: 
+
+
+
+
+If this future invention was created it can allow for more reusability without wildlife destroying specific hardware and does not disturb any animals allowing for conservation research to be much more easier.
+ 
+### Sources that I found: 
+
+**Sources on 3d printing technologies:**               
+* ["how 3d printing is helping wildlife conservation"](https://3dprint.com/240920/how-3d-printing-is-helping-wildlife-conservation/#:~:text=Coral&text=Coral%20reefs%20provide%20habitat%20and,creating%20a%20new%20living%20reef.)
+
+   * This article goes into detail about 3d printing and how it helps in conserving animal wildlife 
+
+**Sources on radio frequency signals:**
+
+* ["transforming data into conservation"](https://cnr.ncsu.edu/news/2022/01/transforming-data-into-conservation/) 
+
+   * This article goes into detail about the importance of radio signals and its purpose in animal conservation. 
+
+**Information on camouflage technologies:** 
+* [](https://www.sciencedirect.com/science/article/abs/pii/S0006320716305250#:~:text=One%20study%20on%20Atlantic%20salmon,site%20that%20included%20novel%20substrates.)  
+
+   * This article talks about the importance and role that camouflaging could play in animal conservation and its research. 
+
+
+
+
+
+
+
