@@ -1,5 +1,5 @@
-o# Content
-Topic: **Animal conservation**
+# Content
+## Topic: **Animal conservation**
 
 ## Overview/Introduction/Context
 
@@ -181,71 +181,70 @@ Topic: **Animal conservation**
 
 ## Part B: possible future technological advancements on animal conservation 
 
-1. Using 3D printing to create models of animal habitats and wildlife. 
+1. **Using 3D Printing to Create Models of Animal Habitats in Wildlife** 
 
    * 3D printing models of animal habitats can act as a planner in developing habitats that help in advancing animal conservation
    * Artificial reef models can be 3d printed out to allow for growing animal populations and maintaining life cycles within marine              ecosystems.
-   * Because of this, This in return can allow for the management of animal populations and the locations of animals to ensure that these populations are safe.
-   * Heres an image of how it would work:
+   * Because of this, this in return can allow for the management of animal populations and the locations of animals to ensure that these        populations are safe.
+   * Here's an image of how it would work:
      
       #### PLEASE NOTE THAT THIS IMAGE IS AI GENERATED
      
-      <img width="1024" height="1536" alt="ChatGPT Image Nov 22, 2025, 01_14_33 PM" src="https://github.com/user-                                  attachments/assets/3ac5e373-eb2a-40aa-9ca9-9b16032739a6" />
+      <img width="1024" height="1536" alt="ChatGPT Image Nov 22, 2025, 01_14_33 PM" src="https://github.com/user-attachments/assets/7e833ed9-1044-4172-b696-1bf2aeba5c86"/>
 
+   * The printer would be able to show a small model of an animal habitat
+   * This can allow for scientists to develop a full scale model that will be implemented in an actual animal habitat 
 
-    * The printer would be able to show a small model of an animal habitat
-    * This can allow for scientists to develop a full scale model that will be implemented in an actual animal habitat 
+2. **Using Radio Frequency Signals and Advanced Walkie Talkies to Send Help and Resources**
 
-2. Using radio frequency signals to send help and resources
-
-   * radio frequency signals can allow for more further communication from specific regions and areas of the world.
+   * Radio frequency signals can allow for further communication from specific regions and areas of the world.
    * these frequency signals can also automatically translate different languages that are sent by radio signals and are translated to the       specific regional language 
-   * For example, an SOS signal  can be sent from Vietnam and translated to Zimbabwe which can allow for conservationists from different         countries to help out Vietnam and send resources depending on the situation.
+   * For example, an SOS signal  can be sent from Vietnam and translated to Zimbabwe which can allow conservationists from different         countries to help out Vietnam and send resources depending on the situation. 
      
-   * Heres an image of how it would work:
+   * Here's an image of how it would work:
   
       #### PLEASE NOTE THAT THIS IMAGE IS AI GENERATED
 
      <img width="1536" height="1024" alt="ChatGPT Image Nov 22, 2025, 01_47_38 PM" src="https://github.com/user-attachments/assets/3352132d-cb9d-4609-9844-2d204bc56445" />
 
+    *  a signal for help can be sent through the use of sending SOS signals from the use of walkie talkies
+    *  To do this you can just press a specified button implemented on the walkie talkie that will automatically send a SOS signal to              nearby radio tower and send the signal to another region. 
 
-3. Using different materials that can automatically camouflage in specific environments
+
+3. **Using different Materials that can Automatically Camouflage in specific environments**
+   
    * How it would work is that a fabric is placed on the object and a software app can be used to change the gradient of the color by using      RGB elements or combining different colors to create a camouflaging effect.
    * Specific materials can be used to create a sort of camouflaging effect to objects.
-   * Can be implemented to different hardwares such as drones and camera traps that wont disturb wilife.
-   * Can allow for more reusability and may be cost effective.
+   * Can be implemented to different hardwares such as drones and camera traps that won't disturb wildlife.
+   * Can allow for more reusability and may be cost effective. 
      
-   * Heres an image of how it would work:
+   * Here's an image of how it would work:
 
      #### PLEASE NOTE THAT THIS IMAGE IS AI GENERATED
 
     <img width="1024" height="1536" src="https://github.com/user-attachments/assets/63813501-1901-4bd6-ab2d-bb9cf1fd8411"/>
 
-
-
-     
+   *  A button can be pressed that sends a signal to the drone that allows it to automatically camouflage with its environment
+   *  It can do this by scanning the environment it is in and changing its RGB color to blend in with its environment
+   *  If that seems difficult to create then maybe using a software app to change the color may be possible. 
  
-### Sources that I found: 
+### Sources that I Found: 
 
-**Sources on 3d printing technologies:**               
+**Sources on 3D Printing Technologies:**  
+
 * ["how 3d printing is helping wildlife conservation"](https://3dprint.com/240920/how-3d-printing-is-helping-wildlife-conservation/#:~:text=Coral&text=Coral%20reefs%20provide%20habitat%20and,creating%20a%20new%20living%20reef.)
 
    * This article goes into detail about 3d printing and how it helps in conserving animal wildlife 
 
-**Sources on radio frequency signals:**
+**Sources on Radio Frequency Signals:**
 
 * ["transforming data into conservation"](https://cnr.ncsu.edu/news/2022/01/transforming-data-into-conservation/) 
 
    * This article goes into detail about the importance of radio signals and its purpose in animal conservation. 
 
-**Information on camouflage technologies:** 
+**Information on Camouflage Technologies:** 
+
 * ["The importance of considering camouflage in cryptic species"](https://www.sciencedirect.com/science/article/abs/pii/S0006320716305250#:~:text=One%20study%20on%20Atlantic%20salmon,site%20that%20included%20novel%20substrates.)  
 
-   * This article talks about the importance and role that camouflaging could play in animal conservation and in marine wildlife research. 
-
-
-
-
-
-
-
+   * This article talks about the importance and role that camouflaging could play in animal conservation and in marine wildlife research.
+  
