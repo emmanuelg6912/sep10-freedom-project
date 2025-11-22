@@ -222,7 +222,7 @@ If this future invention was created it can allow for more reusability without w
    * This article goes into detail about the importance of radio signals and its purpose in animal conservation. 
 
 **Information on camouflage technologies:** 
-* [](https://www.sciencedirect.com/science/article/abs/pii/S0006320716305250#:~:text=One%20study%20on%20Atlantic%20salmon,site%20that%20included%20novel%20substrates.)  
+* [link](https://www.sciencedirect.com/science/article/abs/pii/S0006320716305250#:~:text=One%20study%20on%20Atlantic%20salmon,site%20that%20included%20novel%20substrates.)  
 
    * This article talks about the importance and role that camouflaging could play in animal conservation and its research. 
 
