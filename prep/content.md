@@ -20,67 +20,91 @@
 #### Earth Ranger 
 
 * Searched up **"Animal Conservation Technology Apps"**
-* I found an app called **"Earth Ranger"** which uses data from different animals, habitats, and environments to help in protecting and conserving wildlife.
+*  **"Earth Ranger"**  uses data from different animals, habitats, and environments to help in protecting and conserving wildlife.
   
-   * There's also different parts of the website such as the ecoscope which is a free open source model used for analysis on animal populations and their time spent in specific areas.
+   * There's also different parts of the website such as the ecoscope which is a free open source model used for analysis on animal              populations and their time spent in specific areas.
+     
    * Different parts of the website are organized and specific.
-   * Founded in 2004 but then developed into a platform in 2015. 
-   * Available on all ios/android/computers and it's free. 
+     
+   * Founded in 2004 but then developed into a platform in 2015.
+      
+   * Available on all ios/android/computers and it's free.
+      
    * [heres the link to the app](https://www.earthranger.com/)
+     
    * ![earth-ranger](https://github.com/user-attachments/assets/984a9aad-872e-43a1-89fb-34353d4afed6)
 
 ### pros & cons 
 
 #### pros 
-* app is a lot more recent so there may be more changes made on the app interface and the website
-* The app is very accessible and is available on all platforms
-* The app is free which can also be a cost benefit
+* app is a lot more recent so there may be more changes made on the app interface and the website.
+  
+* The app is very accessible and is available on all platforms.
+  
+* The app is free which can also be a cost benefit.
 
 #### cons 
-* This app is mainly used by rangers as a communication tool to track animal locations and their populations so people who are interested in animal conservation may not be able to use this app 
+* This app is mainly used by rangers as a communication tool to track animal locations and their populations so people who are interested in animal conservation may not be able to use this app.
 
 #### eBird 
 
-* The next app I found was named **"eBird"** which was a very interesting online website app where different users can take pictures and share data of the birds they find.
+*  **"eBird"** is a online website app where different users can take pictures and share data of the birds they find.
    
    * With users being able to share different images of wildlife, scientists are able to get a better understanding and data on the              locations of birds, their populations, and their species. This in return can provide newer opportunities for developments in animal         conservation in the future and beyond.
+     
    * You only need to make an account to get started.
+     
    * accessible on all platforms/ios/android/computer for free.
-   * created in 2002 
+     
+   * created in 2002.
+     
    * A video on the website talks about the app and its purpose.
+     
    * [heres the link to the app](https://ebird.org/home)
+     
    * ![ebird](https://github.com/user-attachments/assets/7414a101-b62f-42a1-9052-8b764468fd5d)
 
 ### Pros & Cons 
 
 #### pros 
-* very easy to download
-* interacting with different users can provide you with more knowledge on topics related to animal conservation 
-* the public accessibility allows for people who are interested in animal conservation to take action and help in the cause of animal conservation 
+* Very easy to download.
+  
+* Interacting with different users can provide you with more knowledge on topics related to animal conservation.
+  
+* The public accessibility allows for people who are interested in animal conservation to take action and help in the cause of animal conservation.
 
 #### cons 
-* the app was created a very long time ago so there may not be as much viewer recognition and some parts of the app may not work 
 
-#### wild track 
+* The app was created a very long time ago so there may not be as much viewer recognition and some parts of the app may not work 
 
-* The Final app that I ended up finding was called  **"wild track"** which uses data analytics, artificial intelligence, and ecological knowledge to help in conserving wildlife.
+#### Wild Track 
+
+* The app **"wild track"** uses data analytics, artificial intelligence, and ecological knowledge to help in conserving wildlife.
   
-  * Uses a new app named **FIT/Footprint Identification Technology** which allows for easy tracking and data of animal population by just       taking a picture of an animal's footprint.
+  * The software of **FIT/Footprint Identification Technology** allows for easy tracking and data of animal population by just taking a         picture of an animal's footprint.
+    
   * Uses non invasive methods that do not disturb or bother animals or species.
+    
   * Technology is accessible to all communities.
+    
   * download the app on ios or android for free.
-  * first began to develop in 1992-2000 then became a full on software app in 2003.  
+    
+  * first began to develop in 1992-2000 then became a full on software app in 2003.
+    
   * [heres the link to the app](https://www.wildtrack.org/).
+    
   * ![Wildtrack](https://github.com/user-attachments/assets/16f32ef6-4798-45b7-b0a1-811313f704c0)
 
 ### Pros & cons
 
 #### Pros 
 * The accessibility on all devices makes it possible for more global initiative made on animal conservation and on its developments.
+  
 * Although the app isn't very modern a lot of changes have been made to the website interface and the apps to make.
 
 #### Cons 
 * The usage of the app is mainly focused and aimed towards conservationists who are a part of different regions such as Africa within the safari so not everyone can use the app.
+  
 * The age of the website can also be a problem as there may not be that many software advancements and user attention.
 
 #### Searches 
@@ -91,25 +115,31 @@
     * did not find any results.
   
 ### hardware advancements for animal conservation 
-<!--I decided to organize the hardware advancements the same as the software advancements in terms of how advanced they were in their technologies.-->
+<!--I decided to organized hardware advancements in terms of how advanced they were in their technologies.-->
 <!--added more headings to organize the different hardware advancements.-->
 <!--removed the pros and cons list for hardware advancements as I already included it in my bullet points.-->
 <!--added more spacings to my code so that it looks more organized in my preview.-->
 <!--added a heading tag for "information" which includes links and images on the information that I found.-->
-<!--included more details and information to specify the hardware advancements made-->
+<!--included more details and information to specify the hardware advancements made.-->
  
 * searched up **"Animal conservation hardware advancements"**
 
 #### Fauna and Flora/NOT A HARDWARE ADVANCEMENT  
 
-* I found a lot of different websites and conservation organizations that specialized in the protection of animals. Almost all of the websites I clicked on had important information on these topics but the one that I found the most interesting was [fauna and flora].(https://www.fauna-flora.org/)
+* Heres the link to the organization: 
+
+   * [fauna and flora].(https://www.fauna-flora.org/)
+     
 * **Fauna and Flora** specializes in the conservation of animal species through biological, software, and hardware advancements being made in animal conservation.
-   * _Although this website is not a hardware advancement my information on hardware advancements being made on animal conservation came from, this website specifically so you may see the same website name but different articles for my information section of each hardware advancement._
+
+   * _Although this website is not a hardware advancement my information on hardware advancements being made on animal conservation came from this website specifically. So, you may see the same website name but different articles for my information section of each hardware advancement._
 
 #### Environmental DNA and Genomics 
 
-* One hardware advancement that was most interesting was the use of **environmental DNA and genomics** because it was surprising how advanced the animal conservation industry was, but so many people don't know about it.
-  * The purpose of this advancement is to gather natural samples from the wild which can reveal the presence of new and unknown species within the wild.
+* The hardware advancement of **environmental DNA and genomics** surprised me during as it was so unexpected that animal conservation has advanced so much, yet so many people don't know about it.
+  
+  * The purpose of this advancement is to gather natural samples from the wild which can reveal the presence of new and unknown species         within the wild.
+    
   * However this strategy can often at times be inefficient due to needing a lot of steps to acquire data and it can be costly.
 
  #### information 
@@ -120,13 +150,13 @@
     
   * here's an image of the process of Environmental DNA sequencing:
 
-    <img width="600" height="700" alt="Environmental_sequencing" src="https://github.com/user-attachments/assets/cfebcb9c-1bd6-4321-aacf-8b86d37d8473"/>
+    <img width="600" height="700" alt="Environmental_sequencing" src="https://github.com/user-attachments/assets/cfebcb9c-1bd6-4321-aacf-        8b86d37d8473"/>
 
 #### Tagging and Collaring/biologging
  
-* another hardware advancement that stood out to me was the use of **tagging and collaring/biologging** of animals.
-  * Basically, how it works is that an electronic tag is attached to the animal's body and their movement can be tracked with the tag on them. Because of this, this allows for conservationists to help in research, management, and security of animal populations within the wild
-  * However, this strategy can often disturb animals due to sedation being needed to calm the animals down to place the collar
+  * Basically, how it works is that an electronic tag is attached to the animal's body and their movement can be tracked with the tag on        them. Because of this, this allows for conservationists to help in research, management, and security of animal populations within the      wild. 
+    
+  * However, this strategy can often disturb animals due to sedation being needed to calm the animals down to place the collar. 
 
 #### information 
 
@@ -143,10 +173,13 @@
 
 #### Camera Trap 
  
-* I then found another interesting invention called the **camera trap** because although the name sounds pretty menacing it's actually really useful. 
+*  **camera trap**, although the name sounds pretty menacing it's actually really useful.
+  
   * The camera trap can be used to track animal movements within an area without the need to disturb wildlife.
+    
   * Because of this new species can be discovered and populations can be tracked and secured in these specific areas.
-  * Camera traps are often cheap to get and can average at around 30 to 100 dollars. However to get advanced cameras with full color they can be very costly and can average up to 500 to 2000 dollars.
+    
+  * Camera traps are often cheap to get and can average at around 30 to 100 dollars. However to get advanced cameras with full color they       can be very costly and can average up to 500 to 2000 dollars.
 
 #### Information 
 
@@ -160,15 +193,15 @@
 
 #### Drones 
   
-* The last Hardware advancement  that I found useful was the use of **drones** to scan out environments
   * Although it may seem obvious as to why it's useful due to its high flying distance there's actually more to it than it looks.
+    
   * In our modern day society drones can scan out models of landscapes which can be used to track which animals and species inhabit which areas of a landscape allowing for more data on animal populations and land stability.
 
 #### Information 
 
   * Links to the information are shown below:
 
-  * although I already put a link to this article it still goes over some information on the importance of drones
+  * _although I already put a link to this article it still goes over some information on the importance of drones._
     
      * ["Explained: How technology can protect the world’s wildlife"](https://www.fauna-flora.org/explained/what-is-conservation-technology-how-tech-solutions-can-protect-the-worlds-wildlife/)
 
@@ -183,22 +216,28 @@
 
 1. **Using 3D Printing to Create Models of Animal Habitats in Wildlife** 
 
-   * 3D printing models of animal habitats can act as a planner in developing habitats that help in advancing animal conservation
-   * Artificial reef models can be 3d printed out to allow for growing animal populations and maintaining life cycles within marine              ecosystems.
+   * 3D printing models of animal habitats can act as a planner in developing habitats that help in advancing animal conservation.
+     
+   * Artificial reefs can be 3d printed out to allow for growing animal populations and maintaining life cycles within marine                    ecosystems.
+     
    * Because of this, this in return can allow for the management of animal populations and the locations of animals to ensure that these        populations are safe.
+     
    * Here's an image of how it would work:
      
       #### PLEASE NOTE THAT THIS IMAGE IS AI GENERATED
      
       <img width="1024" height="1536" alt="ChatGPT Image Nov 22, 2025, 01_14_33 PM" src="https://github.com/user-attachments/assets/7e833ed9-1044-4172-b696-1bf2aeba5c86"/>
 
-   * The printer would be able to show a small model of an animal habitat
-   * This can allow for scientists to develop a full scale model that will be implemented in an actual animal habitat 
+   * The printer would be able to show a small model of an animal habitat.
+     
+   * This can allow for scientists to develop a full scale model that will be implemented in an actual animal habitat. 
 
 2. **Using Radio Frequency Signals and Advanced Walkie Talkies to Send Help and Resources**
 
    * Radio frequency signals can allow for further communication from specific regions and areas of the world.
-   * these frequency signals can also automatically translate different languages that are sent by radio signals and are translated to the       specific regional language 
+     
+   * these frequency signals can also automatically translate different languages that are sent by radio signals and are translated to the       specific regional language.
+     
    * For example, an SOS signal  can be sent from Vietnam and translated to Zimbabwe which can allow conservationists from different         countries to help out Vietnam and send resources depending on the situation. 
      
    * Here's an image of how it would work:
@@ -207,15 +246,19 @@
 
      <img width="1536" height="1024" alt="ChatGPT Image Nov 22, 2025, 01_47_38 PM" src="https://github.com/user-attachments/assets/3352132d-cb9d-4609-9844-2d204bc56445" />
 
-    *  a signal for help can be sent through the use of sending SOS signals from the use of walkie talkies
+    *  a signal for help can be sent through the use of sending SOS signals from the use of walkie talkies.
+      
     *  To do this you can just press a specified button implemented on the walkie talkie that will automatically send a SOS signal to              nearby radio tower and send the signal to another region. 
 
 
 3. **Using different Materials that can Automatically Camouflage in specific environments**
    
    * How it would work is that a fabric is placed on the object and a software app can be used to change the gradient of the color by using      RGB elements or combining different colors to create a camouflaging effect.
+     
    * Specific materials can be used to create a sort of camouflaging effect to objects.
+     
    * Can be implemented to different hardwares such as drones and camera traps that won't disturb wildlife.
+     
    * Can allow for more reusability and may be cost effective. 
      
    * Here's an image of how it would work:
@@ -224,17 +267,19 @@
 
     <img width="1024" height="1536" src="https://github.com/user-attachments/assets/63813501-1901-4bd6-ab2d-bb9cf1fd8411"/>
 
-   *  A button can be pressed that sends a signal to the drone that allows it to automatically camouflage with its environment
-   *  It can do this by scanning the environment it is in and changing its RGB color to blend in with its environment
+   *  A button can be pressed that sends a signal to the drone that allows it to automatically camouflage with its environment.
+   * 
+   *  It can do this by scanning the environment it is in and changing its RGB color to blend in with its environment.
+     
    *  If that seems difficult to create then maybe using a software app to change the color may be possible. 
  
-### Sources that I Found: 
+### Sources Found: 
 
 **Sources on 3D Printing Technologies:**  
 
 * ["how 3d printing is helping wildlife conservation"](https://3dprint.com/240920/how-3d-printing-is-helping-wildlife-conservation/#:~:text=Coral&text=Coral%20reefs%20provide%20habitat%20and,creating%20a%20new%20living%20reef.)
 
-   * This article goes into detail about 3d printing and how it helps in conserving animal wildlife 
+   * This article goes into detail about 3d printing and how it helps in conserving animal wildlife. 
 
 **Sources on Radio Frequency Signals:**
 
