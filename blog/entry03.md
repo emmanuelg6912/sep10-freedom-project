@@ -2,7 +2,7 @@
 ##### 12/1/25
 
 ### Context
-This is currenty 
+This is currenty my third blog entry of my freedom project 
 
 
 [Previous](entry02.md) | [Next](entry04.md)
