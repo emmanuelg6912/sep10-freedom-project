@@ -1,7 +1,9 @@
-# Entry 3
-##### X/X/XX
+# Entry 3: Brainstorming future advancements being made in animal conservation 
+##### 12/1/25
 
-Text
+### Context
+This is currenty 
+
 
 [Previous](entry02.md) | [Next](entry04.md)
 
