@@ -19,6 +19,22 @@ How this camouflage material would work is that a button can be pressed from a s
 
 ### research 
 #### sources found 
+**_3d printing technologies_** 
+One article that caught my eye was ["how 3d printing is helping wildlife conservation"](https://3dprint.com/240920/how-3d-printing-is-helping-wildlife-conservation/#:~:text=Coral&text=Coral%20reefs%20provide%20habitat%20and,creating%20a%20new%20living%20reef.) because it not only provides information on how 3d printing helps in wildlife conservation but also in marine life 
+
+**_radio frequency technologies_**
+Another article that caught my eye was ["transforming data into conservation"](https://cnr.ncsu.edu/news/2022/01/transforming-data-into-conservation/) because its very informative in the importance that radio signals hold in animal conservation and shows how advanced animal conservation can really be in the near future. 
+
+**_Camoflauge technologies_** 
+The last article that stood out to me was the article called ["The importance of considering camouflage in cryptic species"](https://www.sciencedirect.com/science/article/abs/pii/S0006320716305250#:~:text=One%20study%20on%20Atlantic%20salmon,site%20that%20included%20novel%20substrates.). Although it explaines more over past hardware advancements such as camera traps and drones, It provided unique ideas such as implementing animal robots that can track how animals interact with eachother and what inventions could be used in the near future to help in maintaining animal populations. 
+
+### Engineering Design Process/EDP
+I am currently in step four/planning part of the engineering design process. I now have all the research on past hardware and software advancements and Ive developed brainstorm ideas and images that may be used in future advancements on animal conservation. Now the last few steps are to start planning out how I want to present these ideas and form a website that includes all my hardware and software future advancements and creating a final product to fully present.
+
+### skills 
+Some skills that 
+
+
 
 
 
