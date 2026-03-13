@@ -16,7 +16,14 @@ This is currently my fourth blog entry on the topic of animal conservation and d
   
 *  The last thing I noticed was Being able to change the text size and positioning. Although text size can regularly be changed manually by including a ``font-size`` css attribute within your code. **However**, The use of the ``rem-calc()`` function can be used to position a text to your own liking and can be used to zoom in text which can be useful if implemented as an acsessibility feature.
 
-#### 2. 
+#### 2. The x and y grid within foundation framework 
+_This concept has alot of different types of grid systems which can be confusing to understand. So, I will only go over a few that stood out to me_
+
+* What was very surprising to me was its similarities to other apps that I used to use. One app in particular that basically shared the same grid system was the app called bootstrap which is designed to help in making grid systems more intuative,  easy to use while automatically implementing classes (and adding new ones) that make making websites more easier. Both apps shared the same grid system with a 12/12 grid system which is alot more simpler in creating different grid patterns. However, foundation framework uses **x and y** classes that can be used the change the margin and padding of the grid system.
+
+* 
+
+#### 3. containers within foundation framework
 
 
 ### reasearch 
