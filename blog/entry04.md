@@ -14,14 +14,17 @@ This is currently my fourth blog entry on the topic of animal conservation and d
   
 *  I also noticed that there were element specific commands given to headings within foundation framework. This was shown in the foundation document where a ``<small>`` tag was added to a specific word and when shown in the website the color would change to a secondary color and the selected word would change its font size and layout as a whole. This can be useful with customization and to hide maybe uninportant text
   
-*  The last thing I noticed was that 
+*  The last thing I noticed was Being able to change the text size and positioning. Although text size can regularly be changed manually by including a ``font-size`` css attribute within your code. **However**, The use of the ``rem-calc()`` function can be used to position a text to your own liking and can be used to zoom in text which can be useful if implemented as an acsessibility feature.
+
+#### 2. 
 
 
 ### reasearch 
 
 ### Takeaways 
+#### Pros and cons 
 
-Text
+
 
 [Previous](entry03.md) | [Next](entry05.md)
 
