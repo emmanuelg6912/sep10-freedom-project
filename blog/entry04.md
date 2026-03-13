@@ -6,6 +6,9 @@ This is currently my fourth blog entry on the topic of animal conservation and d
 
 ### Content 
 
+#### 1. Typoggraphy within foundation framework 
+
+One thing that really stood out to me about foundation framework was its easy to learn and intuative typography within websites. At times the code and elements within html remained the same however the typography did change at times. 
 
 
 ### reasearch 
