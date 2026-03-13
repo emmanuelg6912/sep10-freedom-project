@@ -39,10 +39,13 @@ Most of the reasearch I had done was on the documentation. The following is the 
 
  * This document mainly goes over the newest addition within foundation framework which is the xy grid. This grid is specifically designed     to allow for greater customization with changing graphing of specific elements within html and using x and y elements to change the         margin and padding of specific websites
 
-(Heres the link to the document)[https://get.foundation/sites/docs/typography-base.html]
+(Heres the link to the document)[https://get.foundation/sites/docs/xy-grid.html]
 
-#### Containers 
-(Heres the link to the document)[https://get.foundation/sites/docs/typography-base.html]
+#### navigation
+
+* 
+
+(Heres the link to the document)[https://get.foundation/sites/docs/menu.html]
    
 
 ### Skills 
