@@ -21,15 +21,34 @@ _This concept has alot of different types of grid systems which can be confusing
 
 * What was very surprising to me was its similarities to other apps that I used to use. One app in particular that basically shared the same grid system was the app called bootstrap which is designed to help in making grid systems more intuative,  easy to use while automatically implementing classes (and adding new ones) that make making websites more easier. Both apps shared the same grid system with a 12/12 grid system which is alot more simpler in creating different grid patterns. However, foundation framework uses **x and y** classes that can be used the change the margin and padding of the grid system.
 
-* 
+* Another thing that surprised me was how 
 
 #### 3. containers within foundation framework
 
+*
 
-### reasearch 
+
+### Research 
+Most of the reasearch I had done was on the documentation. The following is the links  to the following framework documents:
+
+#### Typography 
+
+(Heres the link to the document)[https://get.foundation/sites/docs/typography-base.html]
+
+#### xy grid 
+
+ * This document mainly goes over the newest addition within foundation framework which is the xy grid. This grid is specifically designed     to allow for greater customization with changing graphing of specific elements within html and using x and y elements to change the         margin and padding of specific websites
+
+(Heres the link to the document)[https://get.foundation/sites/docs/typography-base.html]
+
+#### Containers 
+(Heres the link to the document)[https://get.foundation/sites/docs/typography-base.html]
+   
+
+### Skills 
+The skills ive been trying to develop now in this project are **curiosity** think **exploration** and **perservearence** 
 
 ### Takeaways 
-#### Pros and cons 
 
 
 
