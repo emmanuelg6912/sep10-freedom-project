@@ -6,6 +6,8 @@ This is currently my fourth blog entry on the topic of animal conservation and d
 
 ### Content 
 
+I decided to choose **foundation framework** because its idea was very interesting. The idea that there could be an app that lets you customize websites from every device sounds like a really good idea. Another reason why I chose it is because the commands and code are easy and intuative to use which can allow for easy creation of websites without requiring so much effort. 
+
 #### 1. Typoggraphy within foundation framework 
 
 * One thing that really stood out to me about foundation framework was its easy to learn and intuative typography within websites. At times the code and elements within html remained the same however the typography did change at times. Sometimes the text would automatically change based on the heading given. So, if there was a ``<h1>`` then the text would be automatically resized to be more bigger. However, if and ``<h4>`` tag was implemented then the text would shrink and the font would be smaller.
@@ -21,15 +23,22 @@ _This concept has alot of different types of grid systems which can be confusing
 
 * What was very surprising to me was its similarities to other apps that I used to use. One app in particular that basically shared the same grid system was the app called bootstrap which is designed to help in making grid systems more intuative,  easy to use while automatically implementing classes (and adding new ones) that make making websites more easier. Both apps shared the same grid system with a 12/12 grid system which is alot more simpler in creating different grid patterns. However, foundation framework uses **x and y** classes that can be used the change the margin and padding of the grid system.
 
-* Another thing that surprised me was how 
+* Another thing that surprised me was how you could also implement margin and padding classes to the x and y grids created. For example by creating a grid margin-x will space out a column within its x axis by connecting both columns together and placing another column within them while padding-x will connect both columns together but will interact with eachother instead of forming another column inside. This rule also applies to padding-y and margin-y classes instead it applies it to the y axis 
+  
+* A part that I really liked about this section was that you could also change the size of the columns and automatically change their column length. By using the ``.shrink`` class foundation will change its size to how much space it needs. You can also use the ``.auto`` class which will take up the remaining space needed and can be really helpful when wanting to take up the maximum space of columns. 
 
 #### 3. containers within foundation framework
+_Containers within foundation framework are actually pretty easy to use with the only problem being is that js is required to toggle some elements._
 
-*
+* One thing that interested me was how different the accordion classes worked compared to regular website creation. The accordion classes were placed in ``<ul>`` and ``<li>`` tags which confused me at first but it actually is pretty useful especially when trying to organize your code
+  
+* There was also this newly implemented feature called **callout cards** which although seemed diffucult to make it was actually alot more simpler. How it works is that by adding a ``.callout``class within a ``div`` you can create a callout card and include elements within the ``div``. This easy customization allows for creation of multiple callout cards without it taking so much effort. 
+  
+* The card class also shares similarities with callout cards with the only difference being there are multiple ``divs`` that need to be used 
 
 
 ### Research 
-Most of the reasearch I had done was on the documentation. The following is the links  to the following framework documents:
+_Most of the reasearch I had done was on the documentation. The following is the links  to the following framework documents:_
 
 #### Typography 
 
@@ -43,13 +52,13 @@ Most of the reasearch I had done was on the documentation. The following is the 
 
 #### navigation
 
-* 
+* This document mainly goes over 
 
 (Heres the link to the document)[https://get.foundation/sites/docs/menu.html]
    
 
 ### Skills 
-The skills ive been trying to develop now in this project are **curiosity** think **exploration** and **perservearence** 
+The skills ive been trying to develop now in this project are **curiosity** **exploration** and **perservearence** 
 
 ### Takeaways 
 
