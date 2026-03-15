@@ -31,7 +31,7 @@ _This concept has a lot of different types of grid systems which can be confusin
 
 #### 3. Containers within foundation framework
 
-_Containers within the foundation framework are actually pretty easy to use with the only problem being that js is required to toggle some elements.
+_Containers within the foundation framework are actually pretty easy to use with the only problem being that js is required to toggle some elements._
 
 * One thing that interested me was how different the accordion classes worked compared to regular website creation. The accordion classes were placed in ``<ul>`` and ``<li>`` tags which confused me at first but it actually is pretty useful especially when trying to organize your code
   
@@ -52,7 +52,7 @@ _Most of the research I had done was on the documentation. The following is the 
 
 #### xy grid 
 
- * This document mainly goes over the newest addition within the foundation framework which is the xy grid. This grid is specifically designed     to allow for greater customization with changing graphing of specific elements within html and using x and y elements to change the         margin and padding of websites.
+* This document mainly goes over the newest addition within the foundation framework which is the xy grid. This grid is specifically          designed to allow for greater customization with changing graphing of specific elements within html and using x and y elements to change    the margin and padding of websites.
 
 (Here's the link to the document)[https://get.foundation/sites/docs/xy-grid.html]
 
