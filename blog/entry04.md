@@ -1,5 +1,6 @@
 # Tinkering with a new app called Foundation Framework 
 ##### 3/13/26
+
 ### Context 
 
 This is currently my fourth blog entry on the topic of animal conservation and developing possible inventions that could be made. Last time I brainstormed and researched what inventions would help in the process of animal conservation. Now im using those ideas to develop it into a functional website. In this blog entry I will go over the app that I ended up choosing to work on my project, why I chose it, its uses, and my takeaways on the app. 
@@ -34,33 +35,42 @@ _Containers within foundation framework are actually pretty easy to use with the
   
 * There was also this newly implemented feature called **callout cards** which although seemed diffucult to make it was actually alot more simpler. How it works is that by adding a ``.callout``class within a ``div`` you can create a callout card and include elements within the ``div``. This easy customization allows for creation of multiple callout cards without it taking so much effort. 
   
-* The card class also shares similarities with callout cards with the only difference being there are multiple ``divs`` that need to be used 
+* The card class also shares similarities with callout cards with the only difference being there are multiple ``divs`` that need to be       used. One div being the 
 
 
 ### Research 
-_Most of the reasearch I had done was on the documentation. The following is the links  to the following framework documents:_
+
+_Most of the research I had done was on the documentation. The following is the links  to the following framework documents:_
 
 #### Typography 
+
+* This document goes over the main parts that are included with text such as spacing, size of text, and the implementation of new elements and classes used to help in typography organization and positioning of text. 
 
 (Heres the link to the document)[https://get.foundation/sites/docs/typography-base.html]
 
 #### xy grid 
 
- * This document mainly goes over the newest addition within foundation framework which is the xy grid. This grid is specifically designed     to allow for greater customization with changing graphing of specific elements within html and using x and y elements to change the         margin and padding of specific websites
+ * This document mainly goes over the newest addition within foundation framework which is the xy grid. This grid is specifically designed     to allow for greater customization with changing graphing of specific elements within html and using x and y elements to change the         margin and padding of websites.
 
 (Heres the link to the document)[https://get.foundation/sites/docs/xy-grid.html]
 
 #### navigation
 
-* This document mainly goes over 
+* This document mainly goes over the importance of 
 
 (Heres the link to the document)[https://get.foundation/sites/docs/menu.html]
    
-
 ### Skills 
-The skills ive been trying to develop now in this project are **curiosity** **exploration** and **perservearence** 
 
-### Takeaways 
+The skills ive been trying to develop now in this project are **creativity**, **growth mindset** and **how to learn** 
+
+1. Creativity is the skill that im trying to develop right now. I definitely should take the time to tinker with everything within the website and try to use the ideas that ive learned from foundation framework into a website that tests out all these concepts. When I have the time I should definitely try creating a website using all the concept ive learned from foundation framework to gain a better understanding of how these concepts work.
+   
+2. having a growth mindset is the skill that im trying to develop through this part of my freedom project. Im definently going to run into problems in the future with creating websites with foundation framework so getting the support from other people and trying some things will help in persevering through the challenges I faced
+   
+3. The last skill that im trying to develop right now is how to learn. Sometimes the foundation framework app may update which may require me to learn some new concepts and see any changes made on my own in order to catch up on any updates made. 
+
+
 
 
 
