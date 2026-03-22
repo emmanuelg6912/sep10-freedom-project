@@ -7,6 +7,8 @@
 ### 3/16/26:
 * Read over the documentation for [base typography](http://get.foundation/sites/docs/typography-base.html) within foundation framework
     * I was able to learn most of the fundamentals such as paragraph tags, headers which all were the same compared to normal design making. But what stood out to me was how there was a settings file that was implemented that made it so that you could change specific text, headings, font-family etc...
+    * I also tried testing out the base typography and organization within a website(the link unfortunately does not work because it was done in my IDE)
+    * I wonder, how could javascript be used for typography? how would the code actually look like?
 
 ### 3/20/26:
 
