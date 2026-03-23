@@ -49,7 +49,15 @@
         * you can also bind two elements together with the ``.badge`` class by implementing a unique id to both the badge and the other element to bind the two elements together.
         * **Colors** can also be added to badges
             * All you need to do is similarly to that of the button icons which is providing different classes that will change the color of the icons(primary, seconary, success etc...)
-        * Icons can also be implemented with badges 
+        * Icons can also be implemented with badges
+            * all thats needed is to include a seperate class nested in a ``<i>`` tag and include one of the three classes implemented into your code
+                EX:
+                * ``"fi-share"`` will create a share icon automatically
+                * ``"fi-check"`` will create a checkmark
+                * ``"fi-wrench"`` will create a wrench icon.
+    * What im going to try now is to create an example website using jsbin and try to look in more to the media section when I have the time tomorrow.
+
+### 3/24/26
 ---
 <!--
 * Links you used today (websites, videos, etc)
