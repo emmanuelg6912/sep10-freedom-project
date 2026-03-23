@@ -4,6 +4,8 @@
 
 ---
 
+## learning log 1
+
 ### 3/16/26:
 * Read over the documentation for [base typography](http://get.foundation/sites/docs/typography-base.html) within foundation framework
     * I was able to learn most of the fundamentals such as paragraph tags, headers which all were the same compared to normal design making. But what stood out to me was how there was a settings file that was implemented that made it so that you could change specific text, headings, font-family etc...
@@ -12,7 +14,7 @@
 
 ### 3/20/26:
 
-* looked into the controls documentation into the [button](https://get.foundation/sites/docs/button.html)lesson
+* looked into the controls documentation into the [button lesson](https://get.foundation/sites/docs/button.html)
     * Decided to watch a video on the topic within the documentation.
         * Buttons in foundation framework seemed to have worked in different ways.
             1. using anchor tags to link buttons to different sites
@@ -35,6 +37,19 @@
 
         * my next steps would be to try implementing these concepts into jsbin to have a better understanding of these button classes and how to use them.
 
+## learning log 2
+
+### 3/23/26
+
+* Looked into the media documentation for the [badge lesson](https://get.foundation/sites/docs/badge.html)
+    * looked into the basics section of the badge lesson.
+        * Badges looked really simple to use because it only required the use of ``<span>`` tags and the creation of a class namned ``.badge``.
+        * Heres a code snippet to how it looks like:
+          ``<span class="badge">1</span>``
+        * you can also bind two elements together with the ``.badge`` class by implementing a unique id to both the badge and the other element to bind the two elements together.
+        * **Colors** can also be added to badges
+            * All you need to do is similarly to that of the button icons which is providing different classes that will change the color of the icons(primary, seconary, success etc...)
+        * Icons can also be implemented with badges 
 ---
 <!--
 * Links you used today (websites, videos, etc)
