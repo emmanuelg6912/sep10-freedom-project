@@ -41,7 +41,7 @@
 
 ### 3/23/26
 
-* Looked into the media documentation for the [badge lesson](https://get.foundation/sites/docs/badge.html)
+* Looked into the **media documentation** for the [badge lesson](https://get.foundation/sites/docs/badge.html)
     * looked into the basics section of the badge lesson.
         * Badges looked really simple to use because it only required the use of ``<span>`` tags and the creation of a class namned ``.badge``.
         * Heres a code snippet to how it looks like:
@@ -58,6 +58,26 @@
     * What im going to try now is to create an example website using jsbin and try to look in more to the media section when I have the time tomorrow.
 
 ### 3/24/26
+* looked into the **sass documentation** for the [formating lesson](https://get.foundation/sites/docs/sass-functions.html)
+    * Sass functions as a type of css specifically used to alter/change colors, units, selectors etc...
+        * A nice feature of foundation framework is that sass is automatically implemented through a specific folder placement in ``scss/util``
+            * To import different colors and other parts you just need to include ``@import`` and include the utility you want to alter
+                EX:
+                ``@import `util/util`;``
+            * to include different colors so that it goes to your actual website you just need to include ``@include`` which will create the output of the change made to your website. This is also called a **Mixin**
+                here are some examples:
+                ``@include flex;`` --> will include the ``display: flex`` to a given element.
+                ``@include flex-align($x, $y);`` --> adds horizontal and verticle alignment within a flex container
+                    * this rule still applies for colors and measurement with the only difference is the given parameter is inside a parentheses and a function implemented by foundation framework will be used basically acting as a boolean line of code.
+                        EX:
+                        color-contrast($color1, $color2) --> will check contrast between different colors
+
+    * A question that I have is how can the implementation of sass/scss change the color and measurement implementation to css and html?
+
+    * If I had more time, I shouldve tried this in js bin to get a better understanding of this concept because this is really new to me.
+
+
+
 ---
 <!--
 * Links you used today (websites, videos, etc)
