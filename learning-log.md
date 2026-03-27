@@ -76,13 +76,58 @@
 
     * If I had more time, I shouldve tried this in js bin to get a better understanding of this concept because this is really new to me.
 
+### 3/27/26
 
+* looked into the **navigation section** in foundation framework
+    * I first looked into the menu lesson to see how it works
+        * menus in foundation framework funtion alot better then regular html with the only downside is that multiple ``<li>`` tags are needed which can make the process very tedious
+            1. to do this create a ``<ul>`` tag with the given class of ``menu``
+            2. then create a ``<li>`` tag that nests a ``<a>`` tag
+            3. finally, include a href that will link to any sections of your website and youve done it!
+        * There are also different forms of alignment that can change how the given nav bars are aligned
+            1. placing ``align-center`` in the ``menu`` class will align all items in the navbar at the center
+            2. placing ``align-right`` in the ``menu`` class will align all items in the navber to the right
+            3. placing ``align-left`` in the ``menu`` class will align all items in the navbar to the left
+            4. placing ``simple`` in the ``menu`` class will align all items in their regular state
+            (theres alot more styles that can be implemented [check here to learn more](https://get.foundation/sites/docs/menu.html))
 
----
-<!--
-* Links you used today (websites, videos, etc)
-* Things you tried, progress you made, etc
-* Challenges, a-ha moments, etc
-* Questions you still have
-* What you're going to try next
--->
+* unfortunately many of the other lessons within the **navigation section** often required javascript but the rest were mainly available
+    * I then decided to head to the [top bar](https://get.foundation/sites/docs/top-bar.html) lesson
+        * top bars function as containers that are apart of the navigation bar. Its specifically used as more of a design feature that surrounds the navbar with a background color and can include more content such as search bars, icons,  etc...
+            1. to first create the top bar create a ``<div>`` tag with the class of ``top-bar`` which will set the foundation for the implementation of other sections of the navbar
+            2. Then, you can create a ``top-bar-left`` inside of a ``<div>`` which can be used to surround specific elements within the navigation bar(menus,anchor tags, alignment etc...) and place them on the left side of the navbar
+            3. finally, with the inclusion of a ``top-bar-right`` inside of another ``<div>`` you can organize elements in the navbar within the right of the navbar
+            EX:
+
+            ```
+            <div class="top-bar">
+                <div class="top-bar-left">
+                    <ul class="dropdown menu" data-dropdown-menu>
+                        <li class="menu-text">Site Title</li>
+                        <li>
+                          <a href="#">One</a>
+                          <ul class="menu vertical">
+                            <li><a href="#">One</a></li>
+                            <li><a href="#">Two</a></li>
+                            <li><a href="#">Three</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="#">Two</a></li>
+                    <li><a href="#">Three</a></li>
+                    </ul>
+                </div>
+                <div class="top-bar-right">
+                <ul class="menu">
+                    <li><input type="search" placeholder="Search"></li> --> these lines of code are meant to show how to create a searchbar
+                    <li><button type="button" class="button">Search</button></li> --> these lines of code are meant to show how to create a searchbar
+                </ul>
+                </div>
+            </div>
+            ```
+            (it may seem intimidating because of the countless amounts of divs and ul tags however the organization can make it easier)
+
+        * A question that I have is why is javascript required in almost all navigation components?
+
+        * Next time, if I have the time then I should try and create a jsbin example and try to finish up the navigation section if possible
+
+### 3/28/26 
