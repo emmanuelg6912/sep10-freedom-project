@@ -131,6 +131,6 @@
         * Next time, if I have the time then I should try and create a jsbin example and try to finish up the navigation section if possible
 
 ### learning log 3
-* Using all of these ideas, I decided to start creating an example website using all the given components
+* Using all of these ideas, I decided to start creating an example website using all the given components researched
 
 
