@@ -130,7 +130,21 @@
 
         * Next time, if I have the time then I should try and create a jsbin example and try to finish up the navigation section if possible
 
-### learning log 3
-* Using all of these ideas, I decided to start creating an example website using all the given components researched
+## learning log 3
+
+### 4/9/26
+
+* I then decided to read the documentation on utilities and read over the [flexbox-utilities](https://get.foundation/sites/docs/flexbox-utilities.html) lesson
+    * flexbox utilities function similarly to bootstrap acting as a way to sort elements in rows by using ``cell`` classes instead of ``col`` classes.
+        * these ``cell`` classes are used to create different sections of a container that can split into different parts.
+            * you can customize these cells by including the breakpoint/what size will create the seperate gutters EX: small medium large etc... and by including numbers from 4-12 depending on how many cells there are.
+    * there are also different forms of alginment which can consist of **horizontal-alignment,** **vertical-alignment,** and **central-alignment**
+        * NOTE: its very important that you include a seperate div with the inclusion of the classes ``grid-x`` and ``padding-x`` to allow for horizontal placement of elements.
+            * I then decided to test out these components in [jsbin](https://jsbin.com/?html,output)
+                * a question I have about these componenets is that why are the classes grid-x and padding-x included? What is their purpose and why is it so important? 
+
+
+
+
 
 
