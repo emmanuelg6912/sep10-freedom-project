@@ -48,7 +48,7 @@
           ``<span class="badge">1</span>``
         * you can also bind two elements together with the ``.badge`` class by implementing a unique id to both the badge and the other element to bind the two elements together.
         * **Colors** can also be added to badges
-            * All you need to do is similarly to that of the button icons which is providing different classes that will change the color of the icons(primary, seconary, success etc...)
+            * All you need to do is similarly to that of the button icons which is providing different classes that will change the color of the icons(primary, secondary, success etc...)
         * Icons can also be implemented with badges
             * all thats needed is to include a seperate class nested in a ``<i>`` tag and include one of the three classes implemented into your code
                 EX:
@@ -141,7 +141,7 @@
     * there are also different forms of alginment which can consist of **horizontal-alignment,** **vertical-alignment,** and **central-alignment**
         * NOTE: its very important that you include a seperate div with the inclusion of the classes ``grid-x`` and ``padding-x`` to allow for horizontal placement of elements.
             * I then decided to test out these components in [jsbin](https://jsbin.com/?html,output)
-                * a question I have about these componenets is that why are the classes grid-x and padding-x included? What is their purpose and why is it so important? 
+                * a question I have about these componenets is that why are the classes grid-x and padding-x included? What is their purpose and why is it so important?
 
 
 
