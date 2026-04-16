@@ -144,6 +144,21 @@
                 * a question I have about these componenets is that why are the classes grid-x and padding-x included? What is their purpose and why is it so important?
 
 
+## learning log 4:
+
+## 4/16/26
+
+* I decided to try and make a website using all the concepts that I had learned from foundation framework
+    * [Heres the link to the html code](../tool/foundation-tinkering-1.html)
+* Some problems that I ran into the most were trying to prevent badges from distortin, using the x and y grid and trying to create navbar links that went to different sections of the website
+
+    * I noticed that when working on my website the ``badge`` classes would often distort and end up forming these long circles that made it the website look clunky.
+
+    * I also noticed that the x and y grid seemed kinda confusing to use. The grid functioned as a sort of double grid that can change positioning from both the x and y positions. So there were often two classes that needed to be implemented, a ``margin-x or margin-y`` class within a div which creates space among elements and a ``padding-x or padding-y`` that keeps the elements closed in and together rather then apart. The main problem that came up was the implementation of **gutter types** and ``.cell`` classes. It felt like I was dealing with multiple grid types at once but these problems were often solved when I went through trial and error.
+
+    * the last problem with navbar links was that I had been able to create the navbar but the use of links wasnt specificed as much in the documents of foundation framework. I unfortunatelly havent fixed this problem yet but ill try using slack to get a better understanding.
+
+
 
 
 
