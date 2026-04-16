@@ -146,7 +146,7 @@
 
 ## learning log 4:
 
-## 4/16/26
+## 4/15/26
 
 * I decided to try and make a website using all the concepts that I had learned from foundation framework
     * [Heres the link to the html code](../tool/foundation-tinkering-1.html)
@@ -157,6 +157,8 @@
     * I also noticed that the x and y grid seemed kinda confusing to use. The grid functioned as a sort of double grid that can change positioning from both the x and y positions. So there were often two classes that needed to be implemented, a ``margin-x or margin-y`` class within a div which creates space among elements and a ``padding-x or padding-y`` that keeps the elements closed in and together rather then apart. The main problem that came up was the implementation of **gutter types** and ``.cell`` classes. It felt like I was dealing with multiple grid types at once but these problems were often solved when I went through trial and error.
 
     * the last problem with navbar links was that I had been able to create the navbar but the use of links wasnt specificed as much in the documents of foundation framework. I unfortunatelly havent fixed this problem yet but ill try using slack to get a better understanding.
+
+## 4/16/26 
 
 
 
