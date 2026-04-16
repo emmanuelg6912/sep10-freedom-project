@@ -158,9 +158,19 @@
 
     * the last problem with navbar links was that I had been able to create the navbar but the use of links wasnt specificed as much in the documents of foundation framework. I unfortunatelly havent fixed this problem yet but ill try using slack to get a better understanding.
 
-## 4/16/26 
+## 4/16/26
 
+* I finally had finished up looking over the lessons and documentation of different lessons.
+    * I first checked out the library lesson into the [motion-UI](https://get.foundation/sites/docs/motion-ui.html)
+        * The motion-ui functions as a more simpler way to animate images through different motion classes that change the transitioning or appearence of an image. NOTE: you must first copy and paste a CDN link in order to get the motion-ui working. Heres what the link looks like:
 
+        ```
+        <!-- Insert this within your head tag and after foundation.css -->
+
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/motion-ui@1.2.3/dist/motion-ui.min.css" />
+        ```
+    * here are a few examples of how it may function
+        * 
 
 
 
