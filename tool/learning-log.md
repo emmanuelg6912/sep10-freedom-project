@@ -134,7 +134,7 @@
 
 ### 4/9/26
 
-* I then decided to read the documentation on utilities and read over the [flexbox-utilities](https://get.foundation/sites/docs/flexbox-utilities.html) lesson
+* I then decided to read the documentation on **utilities** and read over the [flexbox-utilities](https://get.foundation/sites/docs/flexbox-utilities.html) lesson
     * flexbox utilities function similarly to bootstrap acting as a way to sort elements in rows by using ``cell`` classes instead of ``col`` classes.
         * these ``cell`` classes are used to create different sections of a container that can split into different parts.
             * you can customize these cells by including the breakpoint/what size will create the seperate gutters EX: small medium large etc... and by including numbers from 4-12 depending on how many cells there are.
@@ -142,7 +142,6 @@
         * NOTE: its very important that you include a seperate div with the inclusion of the classes ``grid-x`` and ``padding-x`` to allow for horizontal placement of elements.
             * I then decided to test out these components in [jsbin](https://jsbin.com/?html,output)
                 * a question I have about these componenets is that why are the classes grid-x and padding-x included? What is their purpose and why is it so important?
-
 
 ## learning log 4:
 
@@ -170,7 +169,35 @@
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/motion-ui@1.2.3/dist/motion-ui.min.css" />
         ```
     * here are a few examples of how it may function
-        * 
+        *
+
+
+## 3/17/26
+* Now with all the given components learned I decided to make a list of all componenents from a top 5 list
+    1: **Motion-UI**
+        PROS:
+        * its very easy to use as it only requires a few plugins to get the website fully running such as ``data-toggler`` and ``data-animate`` that allow for smooth transitions
+        * Theres a wide variety of transitions that could be made that can provide alot of customization to your transitions with only a few simple lines of code
+        CONS:
+        * the only diffuculty about the **motion-ui** is that SASS functions are required in order for specific customizations such as the built in transitions that are in foundation framework which can be diffucult to understand.
+    2: **flexbox-utilities**
+        PROS:
+        * flexbox-utilities are very acsessible to people who might not have a clear understanding on how to implement grid layouts because it only requires a few important classes and the rest is customizable for the user.
+        * flexbox grids often function as a 1-12 grid. This is useful because it gives the user a simple grid system but gives them the ability to make as many layouts as the want to their liking without it being so complex
+        CONS:
+        * customizing positions can be very tedious at times because there are so many different classes that can change the alignment of flexbox-utilities which can take alot of time to fully understand
+        * the implementation of an x and y grid can definently make customization confusing with multiple ways to change alignment it can be really hard to customize with multiple grids at once.
+    3: **typography**
+        PROS:
+        * typography elements and classes are really easy to use as they only require the implementation of a few classes (``<h1>``, ``<p>`` ``<li>``, ``<ul>`` etc ...) that are similar to that of html
+        * Although elements are the same t
+        CONS:
+    4: **Buttons**
+        PROS:
+        CONS:
+    5: **Menu**
+        PROS:
+        CONS:
 
 
 
