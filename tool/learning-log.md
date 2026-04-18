@@ -169,9 +169,22 @@
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/motion-ui@1.2.3/dist/motion-ui.min.css" />
         ```
     * here are a few examples of how it may function
-        *
+        * You can **slide** and **fade elements** that can change the transitioning of elements
+        heres an example of how it could work:
 
+            ```
+            <div data-toggler data-animate="fade-in fade-out" --> will create a fading animation class="callout secondary"> --> REQUIRED CLASSES
+            <p>This panel fades.</p>
+            </div>
 
+            <div data-toggler data-animate="slide-in-down slide-out-up --> will create a sliding animation " class="callout secondary">
+            <p>This panel slides.</p>
+            </div>
+            ```
+            * NOTE: the data-toggler and data-animate class is rquired in order to activate and start the animation
+        * you can also include built in transitions through the use of **SASS variables** that can change the rotation, slide in transitions, and fade in and fade out transitions.
+            * The only line of code that is needed is to include a SASS variable:
+                ``@include motion-ui-transitions;``
 ## 3/17/26
 * Now with all the given components learned I decided to make a list of all componenents from a top 5 list
     1: **Motion-UI**
@@ -190,7 +203,7 @@
     3: **typography**
         PROS:
         * typography elements and classes are really easy to use as they only require the implementation of a few classes (``<h1>``, ``<p>`` ``<li>``, ``<ul>`` etc ...) that are similar to that of html
-        * Although elements are the same t
+        * Although elements are the same the same as regular html there are implementations of different classes that can allow for customization of text and alignment of images.
         CONS:
     4: **Buttons**
         PROS:
