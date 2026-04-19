@@ -205,12 +205,20 @@
         * typography elements and classes are really easy to use as they only require the implementation of a few classes (``<h1>``, ``<p>`` ``<li>``, ``<ul>`` etc ...) that are similar to that of html
         * Although elements are the same the same as regular html there are implementations of different classes that can allow for customization of text and alignment of images.
         CONS:
+        * A con is that adjusting text styles can be diffucult to do if you dont know where to create a **settings file** within SASS.
     4: **Buttons**
         PROS:
+        * Buttons can be really good for form information and can also function as a save or delete button for websites that involve user customization
+        * you can customize the color, transparancy, and size of buttons easily with the inclusion a few classes that are easy to understand
         CONS:
+        * buttons cant be very useful without the knowledge of js/javascript which is used to help in storing all that information that the user gives to the website
     5: **Menu**
         PROS:
+        * Menus are alot more easier to create because of foundation frameworks classes that make customization more fluid and require less effort
+        * customizations are also really easy as they only require a few classes to be fully customized to your liking
         CONS:
+        * creating anchoring tags to link different sections of the website can be really diffucult because theres no clear instructions on how to link menu elements to different sections of websites.
+        * Creating fully functional menus can usually be very tedious and may require alot of ``div`` elements in order to be fully working.
 
 
 
