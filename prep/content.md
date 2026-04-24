@@ -50,7 +50,7 @@
 
 *  **"eBird"** is a online website app where different users can take pictures and share data of the birds they find.
 
-   * With users being able to share different images of wildlife, scientists are able to get a better understanding and data on the              locations of birds, their populations, and their species. This in return can provide newer opportunities for developments in animal         conservation in the future and beyond.
+   * With users being able to share different images of wildlife, scientists are able to get a better understanding and data on the locations of birds, their populations, and their species. This in return can provide newer opportunities for developments in animal conservation in the future and beyond.
 
    * You only need to make an account to get started.
 
@@ -81,7 +81,7 @@
 
 * The app **"wild track"** uses data analytics, artificial intelligence, and ecological knowledge to help in conserving wildlife.
 
-  * The software of **FIT/Footprint Identification Technology** allows for easy tracking and data of animal population by just taking a         picture of an animal's footprint.
+  * The software of **FIT/Footprint Identification Technology** allows for easy tracking and data of animal population by just taking a picture of an animal's footprint.
 
   * Uses non invasive methods that do not disturb or bother animals or species.
 
@@ -138,7 +138,7 @@
 
 * The hardware advancement of **environmental DNA and genomics** surprised me during as it was so unexpected that animal conservation has advanced so much, yet so many people don't know about it.
 
-  * The purpose of this advancement is to gather natural samples from the wild which can reveal the presence of new and unknown species         within the wild.
+  * The purpose of this advancement is to gather natural samples from the wild which can reveal the presence of new and unknown species within the wild.
 
   * However this strategy can often at times be inefficient due to needing a lot of steps to acquire data and it can be costly.
 
