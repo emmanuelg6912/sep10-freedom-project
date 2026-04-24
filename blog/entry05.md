@@ -8,16 +8,19 @@ I am currently a student at SEP10 which is meant to give students knowledge on t
 The most important skills that were most important out of foundation framework were  **menus**,
 **motion-ui**, **flexbox-utilities**, **typography**, and **media componenents**.
 
-1. the motion-ui components were the most interesting out of all the other skills that Ive learned because of how easy it is to use even though its a really complex concept and how many changes you can make. The motion-ui in regular html would require to create multiple classes in order for elements to be animated. However, all these classes are built into foundation framework which can prove very useful when trying to customize image animations. **To do this,** you first need to include a **CDN** link that will generate all custom classes created by foundation framework and then you will have acsess to motion-ui components, which in return can make the use of the motion-ui much more easier.
+1. the **motion-ui** components were the most interesting out of all the other skills that Ive learned because of how easy it is to use even though its a really complex concept and how many changes you can make. The motion-ui in regular html would require to create multiple classes in order for elements to be animated. However, all these classes are built into foundation framework which can prove very useful when trying to customize image animations. **To do this,** you first need to include a **CDN** link that will generate all custom classes created by foundation framework and then you will have acsess to motion-ui components, which in return can make the use of the motion-ui much more easier.
 
 Heres what the CDN link looks like:
 
 ```html
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/motion-ui@1.2.3/dist/motion-ui.min.css"/>
 ```
-motion-ui works as a sort of custom animation that will change how an image/element is shown within a website. Images that use motion-ui 
+motion-ui works as a sort of custom animation that will change how an image/element is shown within a website. Images that use motion-ui can either **rotate a certain angle,** **fade in or fade out,** and **slide in**. _NOTE: you must include a sass function in your sass file to get built in transitions to work EX: ``@include motion-ui-transitions;``_
 
-2.
+2.**flexbox-utilities** serve the purpose of being made to keep elements organized and equally sectioned. Its similar to that of bootstrap where you can include ``container`` and ``col`` classes with the only difference being that there replaced with ``margin-x`` or ``padding-x`` for div classes and ``col`` classes change into ``cell`` classes.
+heres an example of how it would work:
+
+
 
 3.
 
