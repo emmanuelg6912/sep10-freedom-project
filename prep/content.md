@@ -154,7 +154,7 @@
 
 #### Tagging and Collaring/biologging
 
-  * Basically, how it works is that an electronic tag is attached to the animal's body and their movement can be tracked with the tag on        them. Because of this, this allows for conservationists to help in research, management, and security of animal populations within the      wild.
+  * Basically, how it works is that an electronic tag is attached to the animal's body and their movement can be tracked with the tag on them. Because of this, this allows for conservationists to help in research, management, and security of animal populations within the wild.
 
   * However, this strategy can often disturb animals due to sedation being needed to calm the animals down to place the collar.
 
@@ -218,9 +218,9 @@
 
    * 3D printing models of animal habitats can act as a planner in developing habitats that help in advancing animal conservation.
 
-   * Artificial reefs can be 3d printed out to allow for growing animal populations and maintaining life cycles within marine                    ecosystems.
+   * Artificial reefs can be 3d printed out to allow for growing animal populations and maintaining life cycles within marine ecosystems.
 
-   * Because of this, this in return can allow for the management of animal populations and the locations of animals to ensure that these        populations are safe.
+   * Because of this, this in return can allow for the management of animal populations and the locations of animals to ensure that these populations are safe.
 
    * Here's an image of how it would work:
 
@@ -238,7 +238,7 @@
 
    * these frequency signals can also automatically translate different languages that are sent by radio signals and are translated to the       specific regional language.
 
-   * For example, an SOS signal  can be sent from Vietnam and translated to Zimbabwe which can allow conservationists from different         countries to help out Vietnam and send resources depending on the situation.
+   * For example, an SOS signal  can be sent from Vietnam and translated to Zimbabwe which can allow conservationists from different countries to help out Vietnam and send resources depending on the situation.
 
    * Here's an image of how it would work:
 
@@ -248,12 +248,12 @@
 
     *  a signal for help can be sent through the use of sending SOS signals from the use of walkie talkies.
 
-    *  To do this you can just press a specified button implemented on the walkie talkie that will automatically send a SOS signal to              nearby radio tower and send the signal to another region.
+    *  To do this you can just press a specified button implemented on the walkie talkie that will automatically send a SOS signal to nearby radio tower and send the signal to another region.
 
 
 3. **Using different Materials that can Automatically Camouflage in specific environments**
 
-   * How it would work is that a fabric is placed on the object and a software app can be used to change the gradient of the color by using      RGB elements or combining different colors to create a camouflaging effect.
+   * How it would work is that a fabric is placed on the object and a software app can be used to change the gradient of the color by using   RGB elements or combining different colors to create a camouflaging effect.
 
    * Specific materials can be used to create a sort of camouflaging effect to objects.
 
@@ -268,7 +268,7 @@
     <img width="1024" height="1536" src="https://github.com/user-attachments/assets/63813501-1901-4bd6-ab2d-bb9cf1fd8411"/>
 
    *  A button can be pressed that sends a signal to the drone that allows it to automatically camouflage with its environment.
-   *
+
    *  It can do this by scanning the environment it is in and changing its RGB color to blend in with its environment.
 
    *  If that seems difficult to create then maybe using a software app to change the color may be possible.
