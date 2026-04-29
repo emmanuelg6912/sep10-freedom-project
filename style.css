@@ -1,12 +1,37 @@
 .bg-color-1{
 background-color: #3BA138;
+
 }
 .bg-color-2{
 background-color: #38A19E;
+
 }
 .bg-color-3{
 background-color: #9E38A1;
+
 }
 .bg-color-4{
 background-color: #A1383B;
+
+}
+
+h1{
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+h2{
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 150;
+  font-style: normal;
+}
+p {
+  font-family: "Arimo", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 100;
+  font-style: normal;
 }
