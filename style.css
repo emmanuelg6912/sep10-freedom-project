@@ -35,3 +35,14 @@ p {
   font-weight: 100;
   font-style: normal;
 }
+.card{
+ margin: 10px;
+ padding: 10px;
+}
+
+img{
+  width: 250px;
+  height: 225px;
+  margin: auto;
+  padding: auto; 
+}
