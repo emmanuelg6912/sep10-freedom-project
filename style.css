@@ -1,18 +1,18 @@
 .bg-color-1{
 background-color: #3BA138;
-
+margin: 10px;
 }
 .bg-color-2{
 background-color: #38A19E;
-
+margin: 10px;
 }
 .bg-color-3{
 background-color: #9E38A1;
-
+margin: 10px;
 }
 .bg-color-4{
 background-color: #A1383B;
-
+margin: 10px;
 }
 
 h1{
@@ -37,9 +37,11 @@ p {
 }
 .card{
   margin:10px;
-  padding:10px;
 }
 img{
   width: 250px;
   height: 225px;
+}
+.link-container{
+  color: white;
 }
