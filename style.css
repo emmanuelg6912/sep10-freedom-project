@@ -15,7 +15,7 @@ background-color: #A1383B;
 margin: 10px;
 }
 
-h1{
+.open-sans-font{
   font-family: "Open Sans", sans-serif;
   font-optical-sizing: auto;
   font-weight: 300;
@@ -23,13 +23,13 @@ h1{
   font-variation-settings:
     "wdth" 100;
 }
-h2{
+.Montserrat-font{
   font-family: "Montserrat", sans-serif;
   font-optical-sizing: auto;
   font-weight: 150;
   font-style: normal;
 }
-p {
+.arimo-font {
   font-family: "Arimo", sans-serif;
   font-optical-sizing: auto;
   font-weight: 100;
@@ -37,10 +37,15 @@ p {
 }
 .card{
   margin:10px;
+  width: auto;
+  height: auto;
 }
 img{
   width: 250px;
   height: 225px;
+  margin: 10px 10px 10px 30px;
+  border: solid 5px black;
+  border-radius: 50px 
 }
 .link-container{
   color: white;
