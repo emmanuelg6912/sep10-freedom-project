@@ -29,6 +29,15 @@ margin: 10px;
   font-weight: 150;
   font-style: normal;
 }
+
+.noto-sans-font{
+  font-family: "Noto Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 150;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
 .arimo-font {
   font-family: "Arimo", sans-serif;
   font-optical-sizing: auto;
@@ -45,8 +54,6 @@ img{
   height: 225px;
   margin: 10px 10px 10px 30px;
   border: solid 5px black;
-  border-radius: 50px 
+  border-radius: 50px
 }
-.link-container{
-  color: white;
-}
+
