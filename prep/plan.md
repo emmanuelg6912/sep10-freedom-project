@@ -11,7 +11,8 @@
 * 5/4/26: present website and get feedback on what to work on.
 
 ## Revisions/feedback
-
+|name|glows|grows|
+|*   |*    |*    |
 
 ## Beyond MVP
 * 5/5/26: look for possible color and font combinations that could make website more visually appealing
