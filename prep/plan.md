@@ -10,8 +10,11 @@
 * 5/3/26 LAST DAY OF REACHING MVP: begin brainstorming on possible changes that could be made on the website depending on the device(mobile, ipad/tablet and laptop).
 * 5/4/26: present website and get feedback on what to work on.
 
+## Revisions/feedback
+
+
 ## Beyond MVP
 * 5/5/26: look for possible color and font combinations that could make website more visually appealing
 * 5/6/26: start implementing carousel images that could help in making website more organized
 * 5/7/26-5/8/26: research more on how to implement SASS to website
-* 5/9/26: add **motion-ui** components 
+* 5/9/26: add **motion-ui** components
