@@ -14,7 +14,7 @@
 |name|glows|grows|
 | ------ | ------ | ------ |
 |Stephanie| I really love the context of introuducing yourself as a software engineer student, I also love the organization you have for part and part b | During the end on the part of sources used I recommend you to have a better background color to make the text pop out overall very good | 
-||
+|Colin| I very much enjoy the formal and professional modern style of the website. | You could possibly add fonts to the basic text, or change the color to your links (or the background) to better see it. |
 ||
 | | | |
 | | | |
