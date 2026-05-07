@@ -20,7 +20,7 @@
 ## Important tasks to work on
 - [] look for better, more fluid color combinations
 - [] add fonts to make text pop out more
-- [] adding a scrollwheel 
+- [] adding a scrollwheel
 - [] finish adding motion-ui components
 - [] implementing carousel images
 

@@ -1,18 +1,14 @@
 .bg-color-1{
-background-color: #3BA138;
-margin: 10px;
+background-color: #98f98d;
 }
 .bg-color-2{
-background-color: #38A19E;
-margin: 10px;
+background-color: #ccf9d9;
 }
 .bg-color-3{
-background-color: #9E38A1;
-margin: 10px;
+background-color: #e1d3d9;
 }
 .bg-color-4{
-background-color: #A1383B;
-margin: 10px;
+background-color: #fcfeed;
 }
 
 .open-sans-font{
@@ -23,7 +19,7 @@ margin: 10px;
   font-variation-settings:
     "wdth" 100;
 }
-.Montserrat-font{
+.montserrat-font{
   font-family: "Montserrat", sans-serif;
   font-optical-sizing: auto;
   font-weight: 150;
@@ -33,7 +29,7 @@ margin: 10px;
 .noto-sans-font{
   font-family: "Noto Sans", sans-serif;
   font-optical-sizing: auto;
-  font-weight: 150;
+  font-weight: 100;
   font-style: normal;
   font-variation-settings:
     "wdth" 100;
@@ -42,6 +38,12 @@ margin: 10px;
   font-family: "Arimo", sans-serif;
   font-optical-sizing: auto;
   font-weight: 100;
+  font-style: normal;
+}
+.raleway-font {
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
   font-style: normal;
 }
 .card{
