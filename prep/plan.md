@@ -18,15 +18,14 @@
 |Hunter| I really loved how  you used cards to make your website, it really made your website look prfessional and more organized. | I think next time you could choose a different color scheme so that it matches a bit better and the viewer doesn't get confused by all the colors.|
 
 ## Important tasks to work on
-- [] look for better, more fluid color combinations
-- [] add fonts to make text pop out more
+- [x] look for better, more fluid color combinations
+- [x] add fonts to make text pop out more
+- [x] begin polishing possible issues with menu and sources section
+- [] use media queries for customization of website sizes
 - [] adding a scrollwheel
 - [] finish adding motion-ui components
-- [] implementing carousel images
-
 
 ## Beyond MVP
 * 5/5/26: look for possible color and font combinations that could make website more visually appealing
-* 5/6/26: start implementing carousel images that could help in making website more organized
 * 5/7/26-5/8/26: research more on how to implement SASS to website
 * 5/9/26: add **motion-ui** components
