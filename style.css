@@ -29,7 +29,7 @@ background-color: #fcfeed;
 .noto-sans-font{
   font-family: "Noto Sans", sans-serif;
   font-optical-sizing: auto;
-  font-weight: 100;
+  font-weight: 200;
   font-style: normal;
   font-variation-settings:
     "wdth" 100;
@@ -37,14 +37,15 @@ background-color: #fcfeed;
 .arimo-font {
   font-family: "Arimo", sans-serif;
   font-optical-sizing: auto;
-  font-weight: 100;
+  font-weight: 200;
   font-style: normal;
 }
 .raleway-font {
   font-family: "Raleway", sans-serif;
   font-optical-sizing: auto;
-  font-weight: <weight>;
+  font-weight: 200;
   font-style: normal;
+  font-size: 24px; 
 }
 .card{
   margin:10px;
@@ -60,11 +61,12 @@ img{
 }
 
 
+
 @media (width <= 768px) {
   img{
     width: 175px;
     height: 125px;
-    margin: auto; 
+    margin: auto;
   }
 }
 }
