@@ -21,11 +21,7 @@
 - [x] look for better, more fluid color combinations
 - [x] add fonts to make text pop out more
 - [x] begin polishing possible issues with menu and sources section
-- [] use media queries for customization of website sizes
-- [] adding a scrollwheel
-- [] finish adding motion-ui components
-
+- [x] use media queries for customization of website sizes
+- [x] fix possible spelling errors within website
 ## Beyond MVP
-* 5/5/26: look for possible color and font combinations that could make website more visually appealing
-* 5/7/26-5/8/26: research more on how to implement SASS to website
-* 5/9/26: add **motion-ui** components
+* 5/5/26: look for possible color and font combinations that could make website more visually appealing. 
