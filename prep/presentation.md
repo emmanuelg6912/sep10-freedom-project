@@ -1,16 +1,16 @@
 # Presentation Plan
 
 ## Hook
-* 
+* give a verbal fun fact to the audience(did you know that animal species are going extinct at a rate 100-1000 times more?)
 
 ## Product
-* 
+* Give demo of website 
 
 ## Process
-* 
+*
 
 ## Conclusion
-* 
+*
 
 <!-- EXAMPLE
 
