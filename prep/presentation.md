@@ -14,7 +14,7 @@
   * beyond MVP challenge: fonts & colors --> css classes --> google fonts(example: comic sans font + georgia font=bad but, noto sans + raleway=good ) --> color contrasts(example blue text + dark blue background=bad but, black text + yellow background= good)
 
 ## Conclusion
-* [URL to project]
+* [URL to project](https://emmanuelg6912.github.io/sep10-freedom-project/)
 * Takeaways
   * perservearence is needed --> using card classes was diffucult in order to maintain alignment and responsiveness throughout different screen sizes. However, getting help from others and researching on my own helped in allowing my website to maintain responsiveness.
   * Always manage time --> being able to set specific times for sections I needed to work on in order to reach MVP helped in being organized and less stressed all the time. However, I would sometimes struggle on different components on my website which would often require me to set longer dates in order to complete those specific tasks
