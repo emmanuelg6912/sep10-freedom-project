@@ -4,7 +4,7 @@
 * give a verbal fun fact to the audience to begin talking about freedom project (did you know that animal species are going extinct at a rate 100-1000 times more?)
 
 ## Product
-* Give demo of freedom project website created
+* Give demo of freedom project website created(gif, link, image etc...)
 
 ## Process
 * flowchart
