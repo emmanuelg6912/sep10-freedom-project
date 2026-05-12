@@ -2,9 +2,17 @@
 
 ## Hook
 * give a verbal fun fact to the audience to begin talking about freedom project (did you know that animal species are going extinct at a rate 100-1000 times more?)
+* switch into the topic of technology(what if there was a solution to all that? what if technology could fix all those problems?) then give introduction to website 
 
 ## Product
 * Give demo of freedom project website created(gif, link, image etc...)
+* Give demo of part A and part B sections of content.md, images used with explanataion
+* Possible sentance starters
+  * "over here in this section is where you can see my tools for foundation framework are used"
+  * "one of my ideas for the future would be a drone that camouflauges in wildlife areas"
+  * "my website is responsive as you can see when the screen sizes decreases, the size of the images starts to align and change its size when reaching a certain amount of size and the text size decreases"
+
+
 
 ## Process
 * flowchart
@@ -17,8 +25,8 @@
 * [URL to project](https://emmanuelg6912.github.io/sep10-freedom-project/)
 * Takeaways
   * perservearence is needed --> using card classes was diffucult in order to maintain alignment and responsiveness throughout different screen sizes. However, getting help from others and researching on my own helped in allowing my website to maintain responsiveness.
-  * Always manage time --> being able to set specific times for sections I needed to work on in order to reach MVP helped in being organized and less stressed all the time. However, I would sometimes struggle on different components on my website which would often require me to set longer dates in order to complete those specific tasks
-  * Learning on my own --> Learning my new tool required me to go through alot of research and documentation of the tool which is what allowed me to use specific components and put them on my website to reach my MVP
+  * Always manage time --> being able to set specific times for sections I needed to work on in order to reach MVP helped in being organized and less stressed all the time. However, I would sometimes struggle on different components on my website such as card classes, and responsiveness within websites which would often require me to set longer dates in order to complete those specific tasks
+  * Learning on my own --> Learning foundation framework required me to go through alot of research of the tool which is what allowed me to use specific components such as card classes, and x-y grid components(container, container-fluid, cells) and put them on my website to reach my MVP
 * "websites are great, but a presentation is better"
 
 <!-- EXAMPLE
