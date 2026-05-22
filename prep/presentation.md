@@ -2,7 +2,7 @@
 
 ## Hook
 * give a verbal fun fact to the audience to begin talking about freedom project (did you know that animal species are going extinct at a rate 100-1000 times more?)
-* switch into the topic of technology(what if there was a solution to all that? what if technology could fix all those problems?) then give introduction to website 
+* switch into the topic of technology(what if there was a solution to all that? what if technology could fix all those problems?) then give introduction to website
 
 ## Product
 * Give demo of freedom project website created(gif, link, image etc...)
@@ -11,8 +11,6 @@
   * "over here in this section is where you can see my tools for foundation framework are used"
   * "one of my ideas for the future would be a drone that camouflauges in wildlife areas"
   * "my website is responsive as you can see when the screen sizes decreases, the size of the images starts to align and change its size when reaching a certain amount of size and the text size decreases"
-
-
 
 ## Process
 * flowchart
