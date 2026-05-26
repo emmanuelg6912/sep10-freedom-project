@@ -4,21 +4,21 @@ by **Emmanuel Genao**
 ## Context
 I am a student at [HSTAT](https://www.hstat.org/) in the [Software Engineering Program](https://hstatsep.github.io/). The "Freedom Project" for SEP10 is a year-long project all about making a website that informs the viewer of the current and future innovations in the topic of my choosing.
 
-For my project, I chose the topic of **Animal conservation**. 
+For my project, I chose the topic of **Animal conservation**.
 
-I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **computer science** in order to help me make my website.
+I used HTML, CSS, Bootstrap, and Github. I also chose to independently study foundation framework in order to help me make my website.
 
 ## Links
 
-[Product]()
+[Product](https://emmanuelg6912.github.io/sep10-freedom-project/)
 
-[Presentation]()
+[Presentation](https://docs.google.com/presentation/d/1LdKlFqumOFSsMKrNZcHqwb1L4JsaDDldvz7qD_iSbaw/edit?slide=id.g3e1257a3c1b_0_364#slide=id.g3e1257a3c1b_0_364)
 
 ## Implications
 ##### PROS
-* 
+*
 ##### CONS
-* 
+*
 
 
 ## Blog
