@@ -18,7 +18,7 @@ I used HTML, CSS, Bootstrap, and Github. I also chose to independently study fou
 ##### PROS
 *
 ##### CONS
-*
+* 
 
 
 ## Blog
