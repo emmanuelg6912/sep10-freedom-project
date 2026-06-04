@@ -8,6 +8,9 @@ For my project, I chose the topic of **Animal conservation**.
 
 I used HTML, CSS, Bootstrap, and Github. I also chose to independently study foundation framework in order to help me make my website.
 
+## Content
+My blogs will mainly be about the **engineering design process(EDP)** of my freedom project while also talking about, the challenges I faced, skills that I needed to learn, and my overall takeways in each of my processes
+
 ## Links
 
 [Product](https://emmanuelg6912.github.io/sep10-freedom-project/)
@@ -19,11 +22,12 @@ I used HTML, CSS, Bootstrap, and Github. I also chose to independently study fou
 * Software and hardware advancements are simple and easy to use
 * future advancements have simple concepts which may its creation more simpler
 * prices are mostly cheap for current software and hardware advancements
+* materials used for future advancements are cheap and reusable which allows for more usage
+* some future advancements such as radio frequencies may prove to be helpful with regional communication
 ##### CONS
-* Pricings may become and issue with future advancements
 * some hardware advancements can be tedious to set up/begin
+* some advancements such as drones may disturb wildlife because of its loud noise
 * Some hardware advancements can also be pricy if you are trying to look for an advanced model
-
 
 ## Blog
 Below you will find my blog about how I made my project.
