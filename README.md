@@ -1,5 +1,5 @@
 # SEP10 Freedom Project
-by **Emmanuel Genao**
+by: **Emmanuel Genao**
 
 ## Context
 I am a student at [HSTAT](https://www.hstat.org/) in the [Software Engineering Program](https://hstatsep.github.io/). The "Freedom Project" for SEP10 is a year-long project all about making a website that informs the viewer of the current and future innovations in the topic of my choosing.
@@ -16,9 +16,13 @@ I used HTML, CSS, Bootstrap, and Github. I also chose to independently study fou
 
 ## Implications
 ##### PROS
-*
+* Software and hardware advancements are simple and easy to use
+* future advancements have simple concepts which may its creation more simpler
+* prices are mostly cheap for current software and hardware advancements 
 ##### CONS
-*
+* Pricings may become and issue with future advancements
+* some hardware advancements can be tedious to set up/begin
+* Some hardware advancements can also be pricy if you are trying to look for an advanced model 
 
 
 ## Blog
